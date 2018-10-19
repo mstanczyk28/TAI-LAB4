@@ -3,13 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="6adf9e8c-a118-4e67-be25-34c4a9ae1774" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/complex.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/complex.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/console.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/console.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/jsBefore/Differences" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/jsBefore/complex.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/jsBefore/console.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/jsBefore/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/script.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -52,12 +56,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="Differences" value="4" />
           <entry key="json" value="4" />
           <entry key="ts" value="900" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="PLAIN_TEXT" value="4" />
           <entry key="TypeScript" value="900" />
           <entry key="tsconfig" value="4" />
         </counts>
@@ -92,7 +98,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jsBefore/Differences">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="129" selection-start-line="3" selection-start-column="129" selection-end-line="3" selection-end-column="129" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -119,6 +129,7 @@
         <option value="$PROJECT_DIR$/complex.ts" />
         <option value="$PROJECT_DIR$/script.ts" />
         <option value="$PROJECT_DIR$/tsconfig.json" />
+        <option value="$PROJECT_DIR$/jsBefore/Differences" />
       </list>
     </option>
   </component>
@@ -178,7 +189,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539979125727" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539979162298" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2018.2.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
@@ -211,18 +222,17 @@
       <option name="presentableId" value="Default" />
       <updated>1539936297895</updated>
       <workItem from="1539936303523" duration="666000" />
-      <workItem from="1539937017009" duration="8377000" />
+      <workItem from="1539937017009" duration="8657000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9043000" />
+    <option name="totallyTimeSpent" value="9323000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -239,7 +249,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="TypeScript" order="9" weight="0.3295082" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3295082" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -314,7 +324,11 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/jsBefore/Differences">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="129" selection-start-line="3" selection-start-column="129" selection-end-line="3" selection-end-column="129" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
