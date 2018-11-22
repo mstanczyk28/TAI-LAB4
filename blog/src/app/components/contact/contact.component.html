@@ -1,4 +1,4 @@
-<app-navbar></app-navbar>
+<!--<app-navbar></app-navbar>-->
 
 <section id="container">
 
@@ -24,16 +24,18 @@
           </div>
           <legend class="col-form-label">Płeć</legend>
           <div class="form-check form-check-inline">
-            <input class="form-check-input" type="radio" name="male" id="male" value="option1">
+            <input class="form-check-input" type="radio" name="sex" id="male" value="male">
             <label class="form-check-label" for="male">Mężczyzna</label>
-            <input class="form-check-input" type="radio" name="female" id="female" value="option2">
+            <input class="form-check-input" type="radio" name="sex" id="female" value="female">
             <label class="form-check-label" for="female">Kobieta</label>
-            <div *ngIf="male.checked || female.checked" class="alert alert-danger" required="">Zaznacz jedną z wartości</div>
+            <!--<div class="alert alert-danger" required="">Zaznacz jedną z wartości</div>-->
           </div>
 
           <div class="form-group">
             <label for="message">Wiadomość</label>
             <textarea class="form-control" id="message" rows="3"></textarea>
+            <div *ngIf="form.get('message').errors && form.get('message').errors['maxlength']"><p>Pole nie może przekroczyć 200 znaków.</p></div>
+            <div *ngIf="form.get('message').invalid && form.get('message').dirty"><p>Pole wymagane!</p></div>
           </div>
           <div class="age">
             <label for="formGroupExampleInput">Wiek:</label>
@@ -44,14 +46,15 @@
             <label for="inputState">Stan cywilny</label>
             <select id="inputState" class="form-control">
               <option></option>
-              <option>panna</option>
-              <option>kawaler</option>
+              <option>panna/kawaler</option>
+              <option>mężata/żonaty</option>
+              <option>wdowa/wdowiec</option>
             </select>
           </div>
           <div class="form-group row button">
             <div class="col-sm-10">
               <button class="btn btn-primary" type="button">Wyczyść</button>
-              <button class="btn btn-primary pull-right" type="submit">Wyślij</button>
+              <button class="btn btn-primary pull-right" type="submit" [disabled]="form.invalid" >OK</button>
             </div>
           </div>
         </form>

@@ -2,24 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c3ce439-a981-43be-bc8d-a2a145d94834" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/api/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/src/api/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/src/app/blog-home/blog-home.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/blog-home/blog-home.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/src/app/blog-home/blog-home.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/blog-home/blog-home.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/src/app/components/blog-item-detail/blog-item-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/components/blog-item-detail/blog-item-detail.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/src/app/components/blog-item-detail/blog-item-detail.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/components/blog-item-detail/blog-item-detail.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/src/app/components/blog-item-image/blog-item-image.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/components/blog-item-image/blog-item-image.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/src/app/components/blog-item-text/blog-item-text.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/components/blog-item-text/blog-item-text.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/src/app/components/blog-item-text/summary.pipe.ts" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/components/blog-item-text/summary.pipe.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/src/app/components/blog-item/blog-item.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/components/blog-item/blog-item.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/src/app/components/blog/blog.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/components/blog/blog.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/src/app/components/blog/blog.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/components/blog/blog.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/src/app/components/contact/contact.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/components/contact/contact.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/src/app/components/contact/contact.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/components/contact/contact.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/src/app/components/navbar/navbar.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/components/navbar/navbar.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/src/app/home-component/home-component.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/home-component/home-component.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/src/app/services/data-service.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/services/data-service.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/src/app/components/quiz/quiz.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/components/quiz/quiz.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/src/app/search-bar/search-bar.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/search-bar/search-bar.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/blog/node_modules/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -33,52 +29,60 @@
     <session id="-1470252809">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="babelrc" value="1" />
           <entry key="css" value="22" />
-          <entry key="html" value="78" />
-          <entry key="json" value="3" />
-          <entry key="ts" value="77" />
+          <entry key="html" value="89" />
+          <entry key="js" value="7" />
+          <entry key="json" value="7" />
+          <entry key="ts" value="92" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="22" />
-          <entry key="HTML" value="78" />
-          <entry key="JSON" value="3" />
-          <entry key="TypeScript" value="77" />
+          <entry key="HTML" value="89" />
+          <entry key="JSON" value="8" />
+          <entry key="JavaScript" value="7" />
+          <entry key="TypeScript" value="92" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
           <entry key="Angular2LanguageService" value="14" />
+          <entry key="TypeScriptServerServiceImpl" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="babelrc" value="23" />
           <entry key="css" value="68" />
-          <entry key="html" value="1480" />
-          <entry key="json" value="11" />
-          <entry key="ts" value="1912" />
+          <entry key="html" value="1640" />
+          <entry key="js" value="99" />
+          <entry key="json" value="34" />
+          <entry key="ts" value="1954" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="68" />
-          <entry key="HTML" value="1480" />
-          <entry key="JSON" value="11" />
-          <entry key="TypeScript" value="1912" />
+          <entry key="HTML" value="1640" />
+          <entry key="JSON" value="57" />
+          <entry key="JavaScript" value="99" />
+          <entry key="TypeScript" value="1954" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.18" value="2" />
           <entry key="project.open.time.21" value="2" />
           <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.28" value="2" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
     </session>
@@ -86,10 +90,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blog/src/app/components/blog/blog.component.html">
+        <entry file="file://$PROJECT_DIR$/blog/src/api/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+            <state relative-caret-position="136">
+              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+              <folding>
+                <element signature="e#15#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.babelrc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/src/api/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="18" selection-start-column="18" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -100,6 +134,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -107,7 +142,14 @@
     <findStrings>
       <find>@import</find>
       <find>styles</find>
+      <find>vendor.js.map`</find>
+      <find>option: va</find>
     </findStrings>
+    <dirStrings>
+      <dir>D:\inf\TAII\LAB4</dir>
+      <dir>D:\inf\TAII\LAB4\blog\src</dir>
+      <dir>D:\inf\TAII\LAB4\blog</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -123,7 +165,6 @@
         <option value="$PROJECT_DIR$/blog/angular.json" />
         <option value="$PROJECT_DIR$/blog/src/app/home-component/home-component.component.css" />
         <option value="$PROJECT_DIR$/blog/src/app/components/navbar/navbar.component.css" />
-        <option value="$PROJECT_DIR$/blog/src/app/components/quiz/quiz.component.html" />
         <option value="$PROJECT_DIR$/blog/src/app/app.component.css" />
         <option value="$PROJECT_DIR$/blog/src/styles.css" />
         <option value="$PROJECT_DIR$/blog/src/app/components/blog-item-image/blog-item-image.component.ts" />
@@ -132,26 +173,32 @@
         <option value="$PROJECT_DIR$/blog/src/app/services/service.ts" />
         <option value="$PROJECT_DIR$/blog/src/app/pipes/filter.pipe.ts" />
         <option value="$PROJECT_DIR$/blog/src/app/components/contact/contact.component.css" />
-        <option value="$PROJECT_DIR$/blog/src/app/search-bar/search-bar.component.html" />
         <option value="$PROJECT_DIR$/blog/src/app/search-bar/search-bar.component.ts" />
         <option value="$PROJECT_DIR$/blog/src/app/directives/text-format.directive.ts" />
         <option value="$PROJECT_DIR$/blog/src/app/components/blog-item-detail/blog-item-detail.component.html" />
         <option value="$PROJECT_DIR$/blog/src/app/components/blog-item-image/blog-item-image.component.html" />
-        <option value="$PROJECT_DIR$/blog/src/app/components/blog-item-text/blog-item-text.component.html" />
         <option value="$PROJECT_DIR$/blog/src/app/components/contact/contact.component.ts" />
-        <option value="$PROJECT_DIR$/blog/src/app/components/contact/contact.component.html" />
         <option value="$PROJECT_DIR$/blog/src/app/home-component/home-component.component.html" />
-        <option value="$PROJECT_DIR$/blog/src/app/components/navbar/navbar.component.html" />
         <option value="$PROJECT_DIR$/blog/src/app/app.component.html" />
-        <option value="$PROJECT_DIR$/blog/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/blog/src/app/components/blog-item-text/summary.pipe.ts" />
-        <option value="$PROJECT_DIR$/blog/src/app/services/data-service.service.ts" />
         <option value="$PROJECT_DIR$/blog/src/app/blog-home/blog-home.component.ts" />
         <option value="$PROJECT_DIR$/blog/src/app/blog-home/blog-home.component.html" />
         <option value="$PROJECT_DIR$/blog/src/app/components/blog-item-detail/blog-item-detail.component.ts" />
         <option value="$PROJECT_DIR$/blog/src/app/components/blog/blog.component.ts" />
-        <option value="$PROJECT_DIR$/blog/src/app/components/blog-item/blog-item.component.html" />
         <option value="$PROJECT_DIR$/blog/src/app/components/blog/blog.component.html" />
+        <option value="$PROJECT_DIR$/blog/src/app/components/navbar/navbar.component.html" />
+        <option value="$PROJECT_DIR$/blog/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/blog/src/app/components/blog-item-text/blog-item-text.component.html" />
+        <option value="$PROJECT_DIR$/blog/src/app/components/blog-item/blog-item.component.html" />
+        <option value="$PROJECT_DIR$/blog/src/app/search-bar/search-bar.component.html" />
+        <option value="$PROJECT_DIR$/blog/src/app/components/contact/contact.component.html" />
+        <option value="$PROJECT_DIR$/blog/src/app/components/quiz/quiz.component.html" />
+        <option value="$PROJECT_DIR$/blog/src/api/index.js" />
+        <option value="$PROJECT_DIR$/blog/src/index.html" />
+        <option value="$PROJECT_DIR$/blog/src/app/services/data-service.service.ts" />
+        <option value="$PROJECT_DIR$/blog/src/api/app.js" />
+        <option value="$PROJECT_DIR$/.babelrc" />
+        <option value="$PROJECT_DIR$/blog/package.json" />
       </list>
     </option>
   </component>
@@ -182,6 +229,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -205,7 +254,7 @@
               <item name="LAB4" type="462c0819:PsiDirectoryNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lab4" type="b2602c69:ProjectViewProjectNode" />
@@ -213,36 +262,29 @@
               <item name="blog" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LAB4" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542400637280" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542909609393" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../TAI_L2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="ts.external.directory.path" value="D:\inf\TAII\LAB4\blog\node_modules\typescript\lib" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2018.2.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\inf\TAII\LAB4\blog" />
+      <recent name="D:\inf\TAII\LAB4\blog\src\api" />
       <recent name="D:\inf\TAII\LAB4\blog\src\app\components" />
     </key>
   </component>
@@ -282,12 +324,13 @@
       <workItem from="1542224681376" duration="1282000" />
       <workItem from="1542289984475" duration="3445000" />
       <workItem from="1542357897494" duration="7662000" />
-      <workItem from="1542390861537" duration="6215000" />
+      <workItem from="1542390861537" duration="15908000" />
+      <workItem from="1542908295474" duration="1443000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59903000" />
+    <option name="totallyTimeSpent" value="71039000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -300,9 +343,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20196672" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20499243" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -319,7 +361,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="TypeScript" order="9" sideWeight="0.49924356" weight="0.3295082" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49924356" visible="true" weight="0.26885247" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49924356" visible="true" weight="0.34590164" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -339,18 +381,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jsBefore/script.js" />
-    <entry file="file://$PROJECT_DIR$/jsBefore/console.js" />
-    <entry file="file://$PROJECT_DIR$/tsconfig.json" />
-    <entry file="file://$PROJECT_DIR$/complex.js" />
-    <entry file="file://$PROJECT_DIR$/jsBefore/complex.js" />
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5311" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsBefore/Differences" />
-    <entry file="file://$PROJECT_DIR$/my-new-app/src/app/test/test.component.html" />
     <entry file="file://$PROJECT_DIR$/my-new-app/src/app/app.component.css" />
     <entry file="file://$PROJECT_DIR$/my-new-app/src/app/app.component.html" />
     <entry file="file://$PROJECT_DIR$/blog/src/app/components/quiz/quiz.component.css">
@@ -361,12 +391,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/src/app/components/quiz/quiz.component.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/src/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/angular.json">
@@ -387,13 +411,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="55">
           <caret line="3296" column="16" lean-forward="true" selection-end-line="3312" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/src/app/components/quiz/quiz.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -432,20 +449,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/src/app/search-bar/search-bar.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/src/app/search-bar/search-bar.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/src/app/directives/text-format.directive.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -453,58 +456,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/src/app/components/blog-item-image/blog-item-image.component.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/src/app/components/blog-item-text/blog-item-text.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/src/app/components/blog-item-text/blog-item-text.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/src/app/components/contact/contact.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="16" column="89" selection-start-line="16" selection-start-column="89" selection-end-line="16" selection-end-column="89" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/src/app/components/contact/contact.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-55">
-          <caret line="40" column="75" selection-start-line="40" selection-start-column="75" selection-end-line="40" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/src/app/home-component/home-component.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/src/app/home-component/home-component.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/src/app/components/navbar/navbar.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -522,13 +477,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-197">
-          <caret line="48" column="17" lean-forward="true" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/src/app/pipes/filter.pipe.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -543,26 +491,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/src/app/services/data-service.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/src/app/components/blog-item-detail/blog-item-detail.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="55" selection-start-line="1" selection-start-column="55" selection-end-line="1" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/src/app/components/blog-item-image/blog-item-image.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/app/components/blog/blog.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/app/components/navbar/navbar.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="66" selection-start-line="4" selection-start-column="66" selection-end-line="4" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/app/components/navbar/navbar.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/src/app/blog-home/blog-home.component.ts">
       <provider selected="true" editor-type-id="text-editor">
@@ -580,30 +531,62 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/src/app/components/blog-item-detail/blog-item-detail.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
+        <state relative-caret-position="238">
           <caret line="14" column="77" selection-start-line="14" selection-start-column="77" selection-end-line="14" selection-end-column="77" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/src/app/components/blog-item/blog-item.component.html">
+    <entry file="file://$PROJECT_DIR$/blog/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        <state relative-caret-position="102">
+          <caret line="39" column="4" lean-forward="true" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/app/components/blog-item-detail/blog-item-detail.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="55" selection-start-line="1" selection-start-column="55" selection-end-line="1" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/app/components/blog-item-text/blog-item-text.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/app/search-bar/search-bar.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/app/home-component/home-component.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/src/app/components/blog/blog.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
+        <state relative-caret-position="408">
           <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#55#0" expanded="true" />
-          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/app/components/blog-item/blog-item.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="59" selection-start-column="59" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/app/components/blog-item-image/blog-item-image.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/src/app/components/blog-item/blog-item.component.ts">
       <provider selected="true" editor-type-id="text-editor">
@@ -612,12 +595,184 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/src/app/components/blog/blog.component.html">
+    <entry file="file://$PROJECT_DIR$/blog/src/app/components/contact/contact.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+        <state relative-caret-position="221">
+          <caret line="16" column="89" selection-start-line="16" selection-start-column="89" selection-end-line="16" selection-end-column="89" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/app/search-bar/search-bar.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/app/components/blog-item-text/blog-item-text.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/app/components/quiz/quiz.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2271">
+          <caret line="261" lean-forward="true" selection-start-line="261" selection-end-line="261" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/app/components/contact/contact.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/polyfills.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/app/services/data-service.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1122" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/js/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-561">
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/node_modules/babel-core/lib/transformation/file/options/option-manager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3774">
+          <caret line="222" column="189" selection-start-line="222" selection-start-column="189" selection-end-line="222" selection-end-column="189" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/api/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/api/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding>
+            <element signature="e#15#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>LAB4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

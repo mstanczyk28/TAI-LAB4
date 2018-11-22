@@ -1,4 +1,4 @@
-<app-navbar></app-navbar>
+<!--<app-navbar></app-navbar>-->
 
 <section id="container">
 
@@ -29,7 +29,7 @@
 </section>
 <script>
   (function() {
-    const myQuestions = [
+    var myQuestions = [
       {
         question: "Tramwaj jakiej linii prowadził Karol Krawczyk?",
         answers: {
@@ -124,31 +124,31 @@
 
     function buildQuiz() {
       // we'll need a place to store the HTML output
-      const output = [];
+      var output = [];
 
       // for each question...
       myQuestions.forEach((currentQuestion, questionNumber) => {
         // we'll want to store the list of answer choices
-        const answers = [];
+        var answers = [],
 
       // and for each available answer...
       for (letter in currentQuestion.answers) {
         // ...add an HTML radio button
         answers.push(
-          `<label>
+          <label>
                      <input type="radio" name="question${questionNumber}" value="${letter}">
                       ${letter} :
                       ${currentQuestion.answers[letter]}
-                   </label>`
+                   </label>
         );
       }
 
       // add this question and its answers to the output
       output.push(
-        `<div class="slide">
+        '<div class="slide">
                    <div class="question"> ${currentQuestion.question} </div>
                    <div class="answers"> ${answers.join("")} </div>
-                 </div>`
+                 </div>'
       );
     });
 
@@ -158,16 +158,16 @@
 
     function showResults() {
       // gather answer containers from our quiz
-      const answerContainers = quizContainer.querySelectorAll(".answers");
+      var answerContainers = quizContainer.querySelectorAll(".answers");
       // keep track of user's answers
-      let numCorrect = 0;
+      var numCorrect = 0;
 
       // for each question...
       myQuestions.forEach((currentQuestion, questionNumber) => {
         // find selected answer
-        const answerContainer = answerContainers[questionNumber];
-      const selector = `input[name=question${questionNumber}]:checked`;
-      const userAnswer = (answerContainer.querySelector(selector) || {}).value;
+        var answerContainer = answerContainers[questionNumber];
+      var selector = 'input[name=question${questionNumber}]:checked';
+      var userAnswer = (answerContainer.querySelector(selector) || {}).value;
 
       // if answer is correct
       if (userAnswer === currentQuestion.correctAnswer) {
@@ -184,7 +184,7 @@
     });
 
       // show number of correct answers out of total
-      resultsContainer.innerHTML = `${numCorrect} out of ${myQuestions.length}`;
+      resultsContainer.innerHTML = '${numCorrect} out of ${myQuestions.length}';
 
       myStorage = window.localStorage;
 
@@ -227,17 +227,17 @@
       showSlide(currentSlide - 1);moveBack();
     }
 
-    const quizContainer = document.getElementById("quiz");
-    const resultsContainer = document.getElementById("results");
-    const submitButton = document.getElementById("submit");
+    var quizContainer = document.getElementById("quiz");
+    var resultsContainer = document.getElementById("results");
+    var submitButton = document.getElementById("submit");
 
     // display quiz right away
     buildQuiz();
 
-    const previousButton = document.getElementById("previous");
-    const nextButton = document.getElementById("next");
-    const slides = document.querySelectorAll(".slide");
-    let currentSlide = 0;
+    var previousButton = document.getElementById("previous");
+    var nextButton = document.getElementById("next");
+    var slides = document.querySelectorAll(".slide");
+    var currentSlide = 0;
 
     showSlide(0);
 
@@ -247,7 +247,7 @@
     nextButton.addEventListener("click", showNextSlide);
 
     var progressWidth = 10;
-    let progressBar = document.querySelector('#step');
+    var progressBar = document.querySelector('#step');
     function move() {
       progressWidth += 10;
       progressBar.style.width = progressWidth + '%';
@@ -258,4 +258,4 @@
     }
   })();
 </script>
-<router-outlet></router-outlet>
+<!--<router-outlet></router-outlet>-->
