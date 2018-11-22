@@ -16,10 +16,10 @@
     <session id="-1470252809">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="babelrc" value="1" />
+          <entry key="babelrc" value="2" />
           <entry key="css" value="22" />
-          <entry key="html" value="89" />
-          <entry key="js" value="7" />
+          <entry key="html" value="90" />
+          <entry key="js" value="8" />
           <entry key="json" value="8" />
           <entry key="ts" value="92" />
         </counts>
@@ -27,9 +27,9 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="22" />
-          <entry key="HTML" value="89" />
-          <entry key="JSON" value="9" />
-          <entry key="JavaScript" value="7" />
+          <entry key="HTML" value="90" />
+          <entry key="JSON" value="10" />
+          <entry key="JavaScript" value="8" />
           <entry key="TypeScript" value="92" />
         </counts>
       </usages-collector>
@@ -41,7 +41,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="babelrc" value="23" />
+          <entry key="babelrc" value="31" />
           <entry key="css" value="68" />
           <entry key="html" value="1640" />
           <entry key="js" value="99" />
@@ -53,7 +53,7 @@
         <counts>
           <entry key="CSS" value="68" />
           <entry key="HTML" value="1640" />
-          <entry key="JSON" value="57" />
+          <entry key="JSON" value="65" />
           <entry key="JavaScript" value="99" />
           <entry key="TypeScript" value="1954" />
         </counts>
@@ -76,11 +76,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="51" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="51" />
+            <state relative-caret-position="255">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/src/api/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.babelrc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -103,9 +121,9 @@
       <find>option: va</find>
     </findStrings>
     <dirStrings>
-      <dir>D:\inf\TAII\LAB4</dir>
       <dir>D:\inf\TAII\LAB4\blog\src</dir>
       <dir>D:\inf\TAII\LAB4\blog</dir>
+      <dir>D:\inf\TAII\LAB4</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -149,13 +167,13 @@
         <option value="$PROJECT_DIR$/blog/src/app/components/blog-item/blog-item.component.html" />
         <option value="$PROJECT_DIR$/blog/src/app/search-bar/search-bar.component.html" />
         <option value="$PROJECT_DIR$/blog/src/app/components/contact/contact.component.html" />
-        <option value="$PROJECT_DIR$/blog/src/app/components/quiz/quiz.component.html" />
         <option value="$PROJECT_DIR$/blog/src/api/index.js" />
         <option value="$PROJECT_DIR$/blog/src/index.html" />
         <option value="$PROJECT_DIR$/blog/src/app/services/data-service.service.ts" />
+        <option value="$PROJECT_DIR$/blog/src/app/components/quiz/quiz.component.html" />
         <option value="$PROJECT_DIR$/blog/src/api/app.js" />
-        <option value="$PROJECT_DIR$/.babelrc" />
         <option value="$PROJECT_DIR$/blog/package.json" />
+        <option value="$PROJECT_DIR$/.babelrc" />
       </list>
     </option>
   </component>
@@ -200,6 +218,43 @@
               <item name="LAB4" type="462c0819:PsiDirectoryNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="lab4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LAB4" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LAB4" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LAB4" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LAB4" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LAB4" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="quiz" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -209,7 +264,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542912136453" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542916184519" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/TAI-LAB4-lab7/TAI-LAB4-lab7" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -267,7 +322,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71896000" />
+    <option name="totallyTimeSpent" value="73888000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -553,13 +608,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/src/app/components/quiz/quiz.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2271">
-          <caret line="261" lean-forward="true" selection-start-line="261" selection-end-line="261" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/src/app/components/contact/contact.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -594,20 +642,7 @@
         <state relative-caret-position="-561" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.babelrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/node_modules/babel-core/lib/transformation/file/options/option-manager.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3774">
-          <caret line="222" column="189" selection-start-line="222" selection-start-column="189" selection-end-line="222" selection-end-column="189" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/node_modules/babel-core/lib/transformation/file/options/option-manager.js" />
     <entry file="file://$PROJECT_DIR$/blog/src/api/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -615,17 +650,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/src/api/app.js">
+    <entry file="file://$PROJECT_DIR$/blog/src/app/components/quiz/quiz.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        <state relative-caret-position="3995">
+          <caret line="235" lean-forward="true" selection-start-line="235" selection-end-line="235" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#section#0;n#section#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="51" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="51" />
+        <state relative-caret-position="255">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/api/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
