@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c3ce439-a981-43be-bc8d-a2a145d94834" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/src/api/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/src/api/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/src/app/components/blog-item/blog-item.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/components/blog-item/blog-item.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/src/app/components/contact/contact.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/components/contact/contact.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/src/app/components/navbar/navbar.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/components/navbar/navbar.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/src/app/components/quiz/quiz.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/components/quiz/quiz.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/src/app/search-bar/search-bar.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/search-bar/search-bar.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/blog/node_modules/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -33,7 +20,7 @@
           <entry key="css" value="22" />
           <entry key="html" value="89" />
           <entry key="js" value="7" />
-          <entry key="json" value="7" />
+          <entry key="json" value="8" />
           <entry key="ts" value="92" />
         </counts>
       </usages-collector>
@@ -41,7 +28,7 @@
         <counts>
           <entry key="CSS" value="22" />
           <entry key="HTML" value="89" />
-          <entry key="JSON" value="8" />
+          <entry key="JSON" value="9" />
           <entry key="JavaScript" value="7" />
           <entry key="TypeScript" value="92" />
         </counts>
@@ -88,42 +75,12 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blog/src/api/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-              <folding>
-                <element signature="e#15#44#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.babelrc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/src/api/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="18" selection-start-column="18" selection-end-column="18" />
+            <state relative-caret-position="136">
+              <caret line="8" column="51" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -229,8 +186,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -243,26 +200,6 @@
               <item name="LAB4" type="462c0819:PsiDirectoryNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="lab4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LAB4" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LAB4" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LAB4" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -272,8 +209,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542909609393" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TAI_L2" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542912136453" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/TAI-LAB4-lab7/TAI-LAB4-lab7" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -330,7 +267,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71039000" />
+    <option name="totallyTimeSpent" value="71896000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -344,7 +281,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20499243" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20801815" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -654,11 +591,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/js/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-561">
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-561" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.babelrc">
@@ -682,20 +615,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/src/api/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding>
-            <element signature="e#15#44#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="51" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="51" />
         </state>
       </provider>
     </entry>
